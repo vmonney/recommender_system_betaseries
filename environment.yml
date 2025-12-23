@@ -1,0 +1,13 @@
+name: betaseries
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - ipykernel
+  - requests
+  - python-dotenv
+  - ruff
+  - pre-commit
+  - black

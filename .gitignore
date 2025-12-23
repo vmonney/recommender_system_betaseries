@@ -1,3 +1,6 @@
 *.toml
 *.yaml
 *.env
+
+!pyproject.toml
+!.pre-commit-config.yaml
